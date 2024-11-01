@@ -1,0 +1,55 @@
+.wovn-plugin-admin.wrap>h2:first-child {
+  margin: 0 0 40px;
+  font-size: 0px;
+}
+
+.wovn-plugin-admin.wrap>h2:first-child img {
+  height: auto;
+  width: 140px;
+}
+
+.wovn-plugin-table .wp-core-ui .button-primary {
+  position: fixed;
+  bottom: 80px;
+}
+
+#wovn-registration-text {
+  margin: 0 0 30px;
+  color: #545f66;
+}
+
+.wovn-plugin-admin .form-table-wrapper {
+  padding: 24px 12px 12px;
+  border: 1px solid #ccc;
+  position: relative;
+}
+
+.wovn-plugin-admin .form-table {
+  margin: 0;
+}
+
+.wovn-plugin-admin .form-table th {
+  padding: 4px 12px 20px;
+  color: #545f66;
+}
+.wovn-plugin-admin .form-table i {
+  color: #82959f;
+}
+
+.wovn-plugin-admin .form-table td {
+  padding: 0 12px 24px;
+}
+
+.wovn-plugin-admin .form-table ::placeholder {
+  opacity: 0.3;
+}
+
+.wovn-plugin-admin .form-table .wovn-lang-table td, .wovn-plugin-admin .form-table .wovn-lang-table th {
+  padding: 8px 10px;
+  width: auto;
+}
+
+.form-table .wovn-lang-table td:last-child, .form-table .wovn-lang-table th:last-child {
+  text-align: right;
+  width: 55px;
+}
